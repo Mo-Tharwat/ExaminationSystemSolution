@@ -1,0 +1,15 @@
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.AssemblyReference.cache
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+G:\My Drive\Route\Assignment (Back-End)\ExamOOP&C#\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
